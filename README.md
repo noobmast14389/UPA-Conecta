@@ -1,10 +1,9 @@
 # UPA Comunica
 
-Aplicación web y programa en Solana (Devnet) para la Universidad Politécnica de Atlautla (UPAtlautla) enfocada en la gestión de reportes y objetos perdidos o encontrados, devoluciones, códigos QR, muro comunitario y operación con respaldo local[span_2](start_span)[span_2](end_span).
+Aplicación web y programa en Solana (Devnet) para la Universidad Politécnica de Atlautla (UPAtlautla) enfocada en la gestión de reportes y objetos perdidos o encontrados, devoluciones, códigos QR, muro comunitario y operación con respaldo local[span_3](start_span)[span_3](end_span).
 
 ## Identificación
 * **Nombre para el certificado:** Adrián Vergara González
-* **Repositorio:** https://github.com/noobmast14389/UPA-Conecta[span_3](start_span)[span_3](end_span)
 
 ## Ruta elegida
 * **Modalidad:** Proyecto propio[span_4](start_span)[span_4](end_span)
