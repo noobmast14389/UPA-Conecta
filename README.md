@@ -53,5 +53,3 @@ En este proyecto realicé y personalicé:
 
 ## Identificación
 - **Nombre para el certificado:** Adrian Vergara González
-- **Correo de registro:** [Tu correo electrónico]
-- 
