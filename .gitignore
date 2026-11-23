@@ -1,0 +1,20 @@
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos de respaldo locales (opcional)
+*.bak
+*.log
+
+# Dependencias y compilaciones (por si agregas Node / Anchor / Rust)
+node_modules/
+target/
+.anchor/
+dist/
+build/
+
+# Variables de entorno / secretos
+.env
+.env.*
